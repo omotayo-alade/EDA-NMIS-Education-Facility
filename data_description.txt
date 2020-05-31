@@ -1,0 +1,33 @@
+Facility_ID: Unique identifier of school under observation
+
+Facility_name: Name of school under observation
+
+Management: Management/ownership whether privately or publicly owned and controlled
+
+State: Location of school amongs the 37 states in Nigeria, FCT inclusive
+
+Improved_water_supply: Whether there is improved supply of water with values of Yes and No
+
+Improved_sanitation: Whether there is improved environmental conditions with values Yes and No
+
+Public_electricity: Whether the facility or school has access to public electricity considered a social amenity with values Yes and No
+
+Chalkboard/classroom: Whether each classroom has chalkboard of its own with values Yes and No
+
+Classrooms: Total number of classrooms in the school under observation
+
+Toilets: Total number of toilets in the school under observation
+
+NCE_teachers: Total number of Nigeria College of Education (NCE) teachers in the school under observation. These category of teachers are regarded as trained teachers
+
+Fulltime_teachers: Total number of full time teachers in the school under observation
+
+Male_students: Total number of male students in the school under observation
+
+Female_students: Total number of female students in the school under observation
+
+Male_teachers: Total number of male teachers in the school under observation
+
+Female_teachers: Total number of female teachers in the school under observation
+
+Total_students: Total number of students in the school under observation. The sum of male and female students in each school.
