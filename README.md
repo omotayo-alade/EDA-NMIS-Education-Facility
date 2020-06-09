@@ -8,7 +8,7 @@ This projects is an exploratory data analysis of Nigeria MDGs Information System
 * [File Description](#description)
 * [Licensing, Authors, Acknowledgements](#licensing)
 
-## Installation
+## Installation <a name="Installation"></a>
 The code requires Python versions of 3.*, Jupyter Notebook web application, and general libraries available through the Anaconda package.
 
 ## Project Motivation <a name="motivation"></a>
