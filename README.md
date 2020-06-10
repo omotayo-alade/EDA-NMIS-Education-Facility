@@ -1,6 +1,6 @@
 # EDA-NMIS-Education-Facility
 
-This projects is an exploratory data analysis of Nigeria MDGs Information System (NMIS) education facility data..
+This project is an exploratory data analysis of Nigeria MDGs Information System (NMIS) education facility data..
 
 ## Table of Contents
 * [Installation](#Installation)
